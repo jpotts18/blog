@@ -1,7 +1,7 @@
 ---
 title: "Phone Screen"
 date: 2022-10-04T17:03:03-06:00
-draft: true
+draft: false
 ---
 
 The purpose of this call is to identify any show stoppers that the candidate might be hiding.

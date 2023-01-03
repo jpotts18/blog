@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Wasteland</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Software Wasteland</description>
+    <title>First-principles on Software Wasteland</title>
+    <link>http://example.org/first-principles/</link>
+    <description>Recent content in First-principles on Software Wasteland</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/first-principles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://example.org/first-principles/for-profit-business/</link>
@@ -84,36 +84,6 @@ Principle: I have a Body
 Q: What are the parts of a Body?
 Principle: Circulatory / Cardio Principle: Digestive Principle: Endocrine Principle: Integumentary (Skin) Principle: Immune (Lymphatic) Principle: Muscular Principle: Nervous Principle: Renal (Urinary) Principle: Reproductive Principle: Respiratory Prinicple: Skeletal Q: What are the most important systems of the Body?
 Principle: Nervous system Q: Why is the nervous system the most important system?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/posts/milestones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/milestones/</guid>
-      <description>Milestones A Python 3 pylint Django 4 MySQL 8+ Bootstrap 5 Compressor SASS Digital Ocean alpha database alpha App Platform Github Actions pylint run unit run integration alpha User Login Database django auth contrib override username for email UI Login Logout Forgot Password Logged In UI Admin Setup Super user B Organizations Relationships Has many Users Has many Entities Has 1 Owner POST /organizations GET /organizations GET /organizations/:id PUT /organizations/:id DEL /organizations/:id Organization / Entity Users POST /users - Add a user to org or entity GET /users?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/posts/model-based-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/model-based-design/</guid>
-      <description>Model based design in a web application I think we can learn a lot from the embedded side because the are a highly scrutinized, secure EE typically use a lot of visual models to demonstrate their code
-App Phases (State Machine) Deploy Health Publish Setup (Bootsrap) Run Shutdown Features / Requirements Login Description (markdown with mermaid) Implemented Code Design Measured Success / Failure Counts (Usage) Verified Unit Stress Security Logout Implemented Measured Usage Verified Forgot Password Measured Usage Success Rate </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/pr-faqs/now-cto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/pr-faqs/now-cto/</guid>
-      <description>Introducing NowCTO Problem Hiring the right CTO is a challenging task for your business. They are expensive, require specialized recruiting. In a small company their expertise is needed.
-Solution Now you can quickly interview talented CTO&amp;rsquo;s that fit your unique needs. They will work for a minimum of 1 day a week at your company
-What do they do? Early Stage: Product Design and Development Mid Stage: Development Productivity and Operations Late Stage: Specific Areas Product Strategy Roadmap Discussions Technology Risk and Assessments Product Analytics Personnel Strategy Raising Funds Mentoring Process Strategy Hiring Product Development What does a day look like?</description>
     </item>
     
   </channel>

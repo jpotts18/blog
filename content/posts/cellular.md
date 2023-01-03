@@ -1,7 +1,7 @@
 ---
 title: "Cellular"
 date: 2022-10-08T14:52:18-06:00
-draft: true
+draft: false
 ---
 
 ## Concepts
