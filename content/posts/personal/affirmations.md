@@ -6,7 +6,6 @@ draft: true
 
 ## Roles
 
--
 - I am confident in my abilities and eager to take on new challenges
 - I am a loving and supportive father to my children
 - I am skilled at building and leading high-performing teams

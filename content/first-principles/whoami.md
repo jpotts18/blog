@@ -48,5 +48,7 @@ Q: How was I created?
 - Principle: I was created by my parents
 - Principle: I was created by physics
 - Principle: I was created by chemistry
+- Principle: I was created by biology
+- Principle: I was created by computation
 
 - Principle: I have created other humans
